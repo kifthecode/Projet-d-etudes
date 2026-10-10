@@ -1,0 +1,33 @@
+# 3. C# : Les bases de la programmation et premier programme (30 leçons · 2 h 48)
+
+- [ ] Comment fonctionne la programmation ? — 9:06
+- [ ] Premier programme — 13:24
+- [ ] Résolution du problème « Attacher » — 0:51
+- [ ] Variable « Nom » — 6:44
+- [ ] Conseil : Comment vous organiser ? — 1:38
+- [ ] Demander des données à l'utilisateur — 4:34
+- [ ] Exercice : Quel est votre âge — 3:27
+- [ ] Les commentaires — 3:41
+- [ ] Variable numérique — 5:41
+- [ ] Convertir une chaîne en entier — 3:24
+- [ ] Erreurs et gestion des exceptions — 6:29
+- [ ] Conseil : Fiche récap — 1:44
+- [ ] Boucle While — 9:34
+- [ ] Améliorer notre programme : Boucle — 6:27
+- [ ] Utiliser le debugger — 7:30 ⚠️ *voir « Points d'attention avec Zed »*
+- [ ] Exercice : Empêcher d'avoir un âge négatif — 3:58
+- [ ] Exercice : Forcer à rentrer un nom — 7:03
+- [ ] Améliorer notre programme : Fonction — 10:37
+- [ ] Exercice : Fonction demander le nom — 2:39
+- [ ] Paramètre de fonction — 8:20
+- [ ] Exercice : Fonction afficher — 3:44
+- [ ] Condition et type « bool » — 3:35
+- [ ] Condition « else if » — 5:12
+- [ ] Exercice : Conditions — 3:23
+- [ ] Condition ET / OU — 4:17
+- [ ] Conseil : Vos remarques — 1:47
+- [ ] La boucle « for » — 8:34
+- [ ] Nombre à virgules et paramètre optionnel — 5:45
+- [ ] Les chaînes formatées — 3:03
+- [ ] Synthèse et idées — 11:42
+
