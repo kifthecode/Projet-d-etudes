@@ -1,17 +1,17 @@
 # 3. C# : Les bases de la programmation et premier programme (30 leçons · 2 h 48)
 
-- [ ] Comment fonctionne la programmation ? — 9:06
-- [ ] Premier programme — 13:24
-- [ ] Résolution du problème « Attacher » — 0:51
-- [ ] Variable « Nom » — 6:44
-- [ ] Conseil : Comment vous organiser ? — 1:38
-- [ ] Demander des données à l'utilisateur — 4:34
-- [ ] Exercice : Quel est votre âge — 3:27
-- [ ] Les commentaires — 3:41
-- [ ] Variable numérique — 5:41
-- [ ] Convertir une chaîne en entier — 3:24
-- [ ] Erreurs et gestion des exceptions — 6:29
-- [ ] Conseil : Fiche récap — 1:44
+- [x] Comment fonctionne la programmation ? — 9:06
+- [x] Premier programme — 13:24
+- [x] Résolution du problème « Attacher » — 0:51
+- [x] Variable « Nom » — 6:44
+- [x] Conseil : Comment vous organiser ? — 1:38
+- [x] Demander des données à l'utilisateur — 4:34
+- [x] Exercice : Quel est votre âge — 3:27
+- [x] Les commentaires — 3:41
+- [x] Variable numérique — 5:41
+- [x] Convertir une chaîne en entier — 3:24
+- [x] Erreurs et gestion des exceptions — 6:29
+- [x] Conseil : Fiche récap — 1:44
 - [ ] Boucle While — 9:34
 - [ ] Améliorer notre programme : Boucle — 6:27
 - [ ] Utiliser le debugger — 7:30 ⚠️ *voir « Points d'attention avec Zed »*
